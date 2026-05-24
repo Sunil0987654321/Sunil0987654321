@@ -97,24 +97,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sunil-kumar-patturi-13118828a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sunil%20Kumar%20Patturi-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="mailto:patturisunil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Sunil0987654321">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
 # 🔥 GitHub Streak Stats
 
 <p align="center">
